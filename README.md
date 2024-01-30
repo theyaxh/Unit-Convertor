@@ -26,6 +26,3 @@ This Unit convertor consists of Length, Temperature and Mass convertors.
  ~Milligram: 100000 to 10000000 mg
  ~Pound    : 10 to 1000 pounds
  ~Tonne    : 1 to 100 tonnes
-
-Thankyou for reading!
-Do share your valuable feedback. 
